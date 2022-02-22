@@ -1,2 +1,2 @@
 # Seskoal
-# Menggunakan Framework CI 3
+- Menggunakan Framework CI 3
